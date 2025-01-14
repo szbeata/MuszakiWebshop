@@ -1,0 +1,17 @@
+{
+    "menuItems":
+        [
+            {"link":"login", "text":"Login"},
+            {"link":"registration", "text":"Registration"},
+            {"link":"products", "text":"Products"}
+        ],
+        
+    "columns":[
+        {"key":"productId", "text":"Product ID","type":"number"},
+        {"key":"category", "text":"Category","type":"text"},
+        {"key":"description", "text":"Description","type":"text"},
+        {"key":"id", "text":"ID","type":"number"},
+        {"key":"name", "text":"Name","type":"text"},
+        {"key":"price", "text":"Price","type":"number"}
+    ]
+    }

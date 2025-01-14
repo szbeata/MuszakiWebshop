@@ -1,0 +1,16 @@
+{
+"menuItems":
+    [
+        {"link":"login", "text":"Belépés"},
+        {"link":"registration", "text":"Regisztrálás"},
+        {"link":"products", "text":"Termékeink"}
+    ],
+"columns":[
+    {"key":"productId", "text":"Cikk azonosító","type":"number"},
+    {"key":"category", "text":"Kategória","type":"text"},
+    {"key":"description", "text":"Leírás","type":"text"},
+    {"key":"id", "text":"Azonosító","type":"number"},
+    {"key":"name", "text":"Megnevezés","type":"text"},
+    {"key":"price", "text":"Ár","type":"number"}
+    ]
+}

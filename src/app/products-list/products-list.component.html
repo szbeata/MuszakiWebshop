@@ -1,0 +1,28 @@
+
+<!-- {{columns|json}}  -->
+
+ <div class="row">
+    <div *ngFor="let oszlop of columns" class="col">
+        {{ oszlop.text }}
+    </div>
+ </div>
+
+ <div *ngFor="let product of products" class="row">
+    <div *ngFor="let oszlop of columns" class="col">
+        {{ product.category }}
+        {{ product.description }}
+        {{ product.id }}
+        {{ product.name }}
+        {{ product.price }}
+    </div>
+ </div>
+
+ <div class="col">
+    <button type="button" class="btn btn-primary">Küldés</button>
+  </div>
+  <div class="col">
+    <button type="button" class="btn btn-warning">Módosítás</button>
+  </div>
+  <div class="col">
+    <button type="button" class="btn btn-danger">Törlés</button>
+  </div>

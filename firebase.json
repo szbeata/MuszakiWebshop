@@ -1,0 +1,292 @@
+{
+    "0": {
+      "category": "Game",
+      "description": "Game",
+      "id": 0,
+      "name": "GameBoy",
+      "price": 1000.25
+    },
+    "10": {
+      "category": "Electronics",
+      "description": "A high-quality camera with excellent performance and features.",
+      "id": 10,
+      "name": "Camera Lite",
+      "price": 1562.48
+    },
+    "11": {
+      "category": "Home Appliances",
+      "description": "A high-quality refrigerator with excellent performance and features.",
+      "id": 11,
+      "name": "Refrigerator Standard",
+      "price": 1108.74
+    },
+    "12": {
+      "category": "Home Appliances",
+      "description": "A high-quality refrigerator with excellent performance and features.",
+      "id": 12,
+      "name": "Refrigerator Pro",
+      "price": 724.94
+    },
+    "13": {
+      "category": "Home Appliances",
+      "description": "A high-quality microwave with excellent performance and features.",
+      "id": 13,
+      "name": "Microwave Max",
+      "price": 1431.04
+    },
+    "14": {
+      "category": "Home Appliances",
+      "description": "A high-quality microwave with excellent performance and features.",
+      "id": 14,
+      "name": "Microwave Standard",
+      "price": 1885.9
+    },
+    "15": {
+      "category": "Home Appliances",
+      "description": "A high-quality washing machine with excellent performance and features.",
+      "id": 15,
+      "name": "Washing Machine Standard",
+      "price": 322.46
+    },
+    "16": {
+      "category": "Home Appliances",
+      "description": "A high-quality washing machine with excellent performance and features.",
+      "id": 16,
+      "name": "Washing Machine Plus",
+      "price": 280.53
+    },
+    "17": {
+      "category": "Home Appliances",
+      "description": "A high-quality air conditioner with excellent performance and features.",
+      "id": 17,
+      "name": "Air Conditioner Plus",
+      "price": 1452.94
+    },
+    "18": {
+      "category": "Home Appliances",
+      "description": "A high-quality air conditioner with excellent performance and features.",
+      "id": 18,
+      "name": "Air Conditioner Pro",
+      "price": 1732.28
+    },
+    "19": {
+      "category": "Home Appliances",
+      "description": "A high-quality vacuum cleaner with excellent performance and features.",
+      "id": 19,
+      "name": "Vacuum Cleaner Lite",
+      "price": 1200.05
+    },
+    "20": {
+      "category": "Home Appliances",
+      "description": "A high-quality vacuum cleaner with excellent performance and features.",
+      "id": 20,
+      "name": "Vacuum Cleaner Plus",
+      "price": 122.41
+    },
+    "21": {
+      "category": "Audio/Video",
+      "description": "A high-quality headphones with excellent performance and features.",
+      "id": 21,
+      "name": "Headphones Standard",
+      "price": 768.17
+    },
+    "22": {
+      "category": "Audio/Video",
+      "description": "A high-quality headphones with excellent performance and features.",
+      "id": 22,
+      "name": "Headphones Plus",
+      "price": 983.51
+    },
+    "23": {
+      "category": "Audio/Video",
+      "description": "A high-quality bluetooth speaker with excellent performance and features.",
+      "id": 23,
+      "name": "Bluetooth Speaker Pro",
+      "price": 977.61
+    },
+    "24": {
+      "category": "Audio/Video",
+      "description": "A high-quality bluetooth speaker with excellent performance and features.",
+      "id": 24,
+      "name": "Bluetooth Speaker Standard",
+      "price": 419.96
+    },
+    "25": {
+      "category": "Audio/Video",
+      "description": "A high-quality home theater with excellent performance and features.",
+      "id": 25,
+      "name": "Home Theater Max",
+      "price": 482.49
+    },
+    "26": {
+      "category": "Audio/Video",
+      "description": "A high-quality home theater with excellent performance and features.",
+      "id": 26,
+      "name": "Home Theater Pro",
+      "price": 736.28
+    },
+    "27": {
+      "category": "Audio/Video",
+      "description": "A high-quality soundbar with excellent performance and features.",
+      "id": 27,
+      "name": "Soundbar Lite",
+      "price": 699.51
+    },
+    "28": {
+      "category": "Audio/Video",
+      "description": "A high-quality soundbar with excellent performance and features.",
+      "id": 28,
+      "name": "Soundbar Lite",
+      "price": 635.42
+    },
+    "29": {
+      "category": "Audio/Video",
+      "description": "A high-quality tv with excellent performance and features.",
+      "id": 29,
+      "name": "TV Standard",
+      "price": 416.53
+    },
+    "30": {
+      "category": "Audio/Video",
+      "description": "A high-quality tv with excellent performance and features.",
+      "id": 30,
+      "name": "TV Lite",
+      "price": 636.9
+    },
+    "31": {
+      "category": "Gaming",
+      "description": "A high-quality gaming console with excellent performance and features.",
+      "id": 31,
+      "name": "Gaming Console Standard",
+      "price": 1333.74
+    },
+    "32": {
+      "category": "Gaming",
+      "description": "A high-quality gaming console with excellent performance and features.",
+      "id": 32,
+      "name": "Gaming Console Standard",
+      "price": 1974.98
+    },
+    "33": {
+      "category": "Gaming",
+      "description": "A high-quality gaming laptop with excellent performance and features.",
+      "id": 33,
+      "name": "Gaming Laptop Lite",
+      "price": 1420.83
+    },
+    "34": {
+      "category": "Gaming",
+      "description": "A high-quality gaming laptop with excellent performance and features.",
+      "id": 34,
+      "name": "Gaming Laptop Pro",
+      "price": 328.6
+    },
+    "35": {
+      "category": "Gaming",
+      "description": "A high-quality vr headset with excellent performance and features.",
+      "id": 35,
+      "name": "VR Headset Plus",
+      "price": 1213.9
+    },
+    "36": {
+      "category": "Gaming",
+      "description": "A high-quality vr headset with excellent performance and features.",
+      "id": 36,
+      "name": "VR Headset Standard",
+      "price": 1954.05
+    },
+    "37": {
+      "category": "Gaming",
+      "description": "A high-quality gaming chair with excellent performance and features.",
+      "id": 37,
+      "name": "Gaming Chair Lite",
+      "price": 759.91
+    },
+    "38": {
+      "category": "Gaming",
+      "description": "A high-quality gaming chair with excellent performance and features.",
+      "id": 38,
+      "name": "Gaming Chair Plus",
+      "price": 1960.75
+    },
+    "39": {
+      "category": "Gaming",
+      "description": "A high-quality game controller with excellent performance and features.",
+      "id": 39,
+      "name": "Game Controller Pro",
+      "price": 871.08
+    },
+    "40": {
+      "category": "Gaming",
+      "description": "A high-quality game controller with excellent performance and features.",
+      "id": 40,
+      "name": "Game Controller Standard",
+      "price": 865.92
+    },
+    "41": {
+      "category": "Office Equipment",
+      "description": "A high-quality printer with excellent performance and features.",
+      "id": 41,
+      "name": "Printer Plus",
+      "price": 1142.01
+    },
+    "42": {
+      "category": "Office Equipment",
+      "description": "A high-quality printer with excellent performance and features.",
+      "id": 42,
+      "name": "Printer Standard",
+      "price": 439.56
+    },
+    "43": {
+      "category": "Office Equipment",
+      "description": "valami",
+      "id": "43",
+      "name": "Scanner Pro",
+      "price": "1507.77"
+    },
+    "44": {
+      "category": "Office Equipment",
+      "description": "A high-quality scanner with excellent performance and features.",
+      "id": 44,
+      "name": "Scanner Max",
+      "price": 1262.99
+    },
+    "45": {
+      "category": "Office Equipment",
+      "description": "A high-quality desk lamp with excellent performance and features.",
+      "id": 45,
+      "name": "Desk Lamp Plus",
+      "price": 1462.98
+    },
+    "46": {
+      "category": "Office Equipment",
+      "description": "A high-quality desk lamp with excellent performance and features.",
+      "id": 46,
+      "name": "Desk Lamp Plus",
+      "price": 1229.73
+    },
+    "-OGZfDwz8PFOxD58aYAC": {
+      "category": "hello",
+      "description": "ashsasd",
+      "name": "hello",
+      "price": 123
+    },
+    "-OGZfJgwOEG-GHV8AlNu": {
+      "category": "nemtom",
+      "description": "adsdawe",
+      "name": "csa",
+      "price": 3433
+    },
+    "-OGZmOZ32pA1cbrt4Ifo": {
+      "category": "",
+      "description": "",
+      "name": "",
+      "price": 0
+    },
+    "NaN": {
+      "category": "ComputerGame",
+      "description": "lorem ipsum",
+      "name": "VámosiGameBoy",
+      "price": 3000
+    }
+  }
